@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 120467cef6650c657ca2                           #生成的clientID
   clientSecret: ef7b5835f009db8afaf1c60f07140e9b22e374c4    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: PEPSIC-J.github.io    #仓库名称
+  owner: PEPSIC-J    #github用户名
+  admin: PEPSIC-J
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
